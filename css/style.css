@@ -1,0 +1,28 @@
+@import "null.css";
+
+.section__list.list-title,
+.list {
+	color: blue;
+}
+#heading {
+	color: rgb(5, 34, 88);
+}
+div.section__two {
+	color: red;
+}
+.red {
+	color: red;
+}
+[class*="__two"] {
+	/* color: red; */
+}
+
+.section__three {
+	color: purple;
+}
+.list-title3 > span {
+	color: purple;
+}
+.section__list ul {
+	color: purple;
+}
